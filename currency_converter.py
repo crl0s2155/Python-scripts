@@ -1,3 +1,4 @@
+# made as part as a codedex python course 
 print('Money exchange program')
 co = int(input('How much co do you have?: '))
 pe = int(input('How much pe do you have?: '))
